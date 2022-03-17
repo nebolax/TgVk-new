@@ -2,7 +2,7 @@
 
 # User side
 
-## Messages features
+## Message's features
 
 ### Suported types:
 
